@@ -1,0 +1,7 @@
+empno,ename,job,mgr,hiredate,sal,comm,deptno
+8396,Smith,Cleark,8902,1990-12-18,800,NULL,20
+8566,Mahadevan,Manager,8839,1991-04-02,2985,NULL,20
+8698,Bina,Manager,8839,1991-05-01,2850,NULL,30
+8839,Amir,President,NULL,1991-11-18,5000,NULL,10
+8882,Shivansh,Manager,8839,1991-06-09,2450,NULL,10
+8888,Scott,Analyst,8566,1992-12-09,3000,NULL,20
